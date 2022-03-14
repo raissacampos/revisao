@@ -1,0 +1,49 @@
+
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Smooch+Sans:wght@600&display=swap');
+
+body{
+    background-color: #A6D3A0;
+    color: #656565;
+    font-family: 'Smooch Sans', sans-serif;
+     font-size: larger;
+}
+.titulo{
+    color: #474747;
+    font-family: 'Dancing Script';
+}
+.subtitulo{
+    color: #509A47;
+    font-family: 'Dancing Script';
+}
+
+.frase{
+    width: 400px;
+    border: 2px solid #D3FAC7;
+    padding: 20px;
+    margin: auto;
+    border-radius: 20px;
+    background-color: black;
+    color: #A6D3A0;
+    font-size: 16px;
+}
+
+.figuras{
+    width: 300px;
+    height: 200px;
+    border: 1px solid black;
+    padding: 5px;
+    background: #509A47;
+    border-radius: 5px;
+    margin-right: 16px;
+
+}
+a{
+    color: green;
+}
+a:hover{
+    color: black;
+}
+
